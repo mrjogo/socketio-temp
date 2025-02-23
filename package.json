@@ -1,0 +1,14 @@
+{
+  "name": "socketio-test",
+  "version": "1.0.0",
+  "description": "A basic Node.js package using socket.io for real-time communication.",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "socket.io": "^4.0.0"
+  },
+  "author": "Ruddick Lawrence",
+  "license": "ISC"
+}
